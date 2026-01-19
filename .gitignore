@@ -1,0 +1,5 @@
+# Ignore large local dataset folder
+Areas-of-interest-POIs/**
+
+# Keep folder structure on GitHub
+!Areas-of-interest-POIs/.gitkeep
