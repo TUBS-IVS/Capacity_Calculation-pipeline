@@ -73,9 +73,9 @@ Combining multiple data sources improves confidence in building categorization a
 ## Output
 
 The final output includes:
-- Merged building geometries for the Braunschweig Großraum
-- Accurate building footprint areas and volumes
-- Semantically enriched building attributes
+- Merged building geometries for the Braunschweig Großraum region.
+- Accurate building footprint areas and volumes.
+- Semantically enriched building attributes.
 
 ---
 
