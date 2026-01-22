@@ -22,7 +22,7 @@ This dataset serves as the base for:
 
 ---
 
-### ALKIS Building Data (LOD2 – 2D)
+### ALKIS Building Data (LOD2)
 
 The project uses the **ALKIS LOD2 building dataset** provided by LGLN:
 
