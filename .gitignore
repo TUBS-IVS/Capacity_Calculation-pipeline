@@ -3,3 +3,7 @@ Areas-of-interest-POIs/**
 
 # Keep folder structure on GitHub
 !Areas-of-interest-POIs/.gitkeep
+*.gpkg
+*.pbf
+*.parquet
+*.csv
