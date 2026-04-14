@@ -7,3 +7,4 @@ Areas-of-interest-POIs/**
 *.pbf
 *.parquet
 *.csv
+*.env
